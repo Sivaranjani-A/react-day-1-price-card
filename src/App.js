@@ -9,7 +9,7 @@ function App() {
     l1: "Single User",
     l2: "5GB Storage",
     l3: "Unlimited Public Projects",
-    l4: "Community Access",
+    l4: "Community Access.",
     l5: <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>Unlimited
       Private Projects</li>,
     l6: <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>Dedicated
